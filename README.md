@@ -1,2 +1,2 @@
-# C311-F-
+# C311-F
 Functional Programming
