@@ -1,7 +1,14 @@
 # C311 Functional Programming
 
+[Fsharp Docs](https://fsharp.org/)
+
 [F# Guide With Emphasis on Visual Studio Integrations](https://connelhooley.uk/blog/2017/04/10/f-sharp-guide)
 
+[VS Code](https://docs.microsoft.com/en-us/dotnet/fsharp/get-started/get-started-vscode)
+
+## Videos  
+
+[Fsharp.org](https://fsharp.org/videos/1)  
 
 **Records**  
 
@@ -25,4 +32,6 @@ let main argv =
     Console.WriteLine("Press enter to exit")
     let value = Console.ReadLine()
     0 // return an integer exit code
-    ```
+```
+
+**If Expressions**
