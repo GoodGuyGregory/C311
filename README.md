@@ -4,6 +4,10 @@
 
 [F# Guide With Emphasis on Visual Studio Integrations](https://connelhooley.uk/blog/2017/04/10/f-sharp-guide)
 
+## Installation  
+
+[Fsharp Install](https://fsharp.org/use/mac/)
+
 [VS Code](https://docs.microsoft.com/en-us/dotnet/fsharp/get-started/get-started-vscode)
 
 ## Videos  
