@@ -2,6 +2,8 @@
 
 [Fsharp Docs](https://fsharp.org/)
 
+[F# For Fun and Profit](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/)
+
 [F# Guide With Emphasis on Visual Studio Integrations](https://connelhooley.uk/blog/2017/04/10/f-sharp-guide)
 
 [F# CheatSheet](http://dungpa.github.io/fsharp-cheatsheet/)
